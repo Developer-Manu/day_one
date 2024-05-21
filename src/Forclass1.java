@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Forclass1 {
 
+    //manohar reddy is a good boy
     public void class1(){
         for(int i=0; i<10; i++ )
         {
